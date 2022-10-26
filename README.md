@@ -35,3 +35,5 @@ https://jupyterbook.org
 ## Contact
 * [Anthony Arendt](mailto:arendta@uw.edu)
 * [Scott Henderson](mailto:scottyh@uw.edu)
+
+Now I know how to update Github codes.
